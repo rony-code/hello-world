@@ -1,3 +1,3 @@
 # hello-world
-my first git repository
+wish the project success!!!
 
